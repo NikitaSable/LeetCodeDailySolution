@@ -1,2 +1,2 @@
 # LeetCodeDailySolution
-Uploading Daily Problem Solution Of LeetCode
+Uploading Daily Solutions of LeetCode
